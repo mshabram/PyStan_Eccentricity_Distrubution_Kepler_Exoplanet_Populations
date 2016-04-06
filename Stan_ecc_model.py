@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import cProfile
 import re
 
-infilex2 = '/data/hk_R2_best_13.dat'
+infilex2 = 'data/hk_R2_best_13.dat'
 
 fx2 = open(infilex2,'r')
 
